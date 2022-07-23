@@ -1,6 +1,6 @@
 # git-demo
 ## sub header
-getting to know git
+getting to know git again
 
 watch tutorial on Youtube
 
